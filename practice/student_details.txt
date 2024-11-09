@@ -1,0 +1,5 @@
+my name is sushant pathak
+this is my file for python prgm
+this will be very fun to make a program
+hello world.
+lets try somthing new with file handling in python.

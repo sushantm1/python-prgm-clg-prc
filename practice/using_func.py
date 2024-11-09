@@ -1,0 +1,11 @@
+# prgm to use read, write, and append a text documnet
+# f.write(' hello.,')
+# f.flush()
+f=open("student_details.txt","r")
+str1=f.read(10)
+print(str1)
+str2=f.read(25)
+print(str2)
+str3=f.read(25)
+print(str3)
+f.close()
